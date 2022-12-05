@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "2474a32106e11494b004740239e8b04a",
 # 模板消息id
-"template_id": "xZFKSjPX-VVEle7UW1Jh-0FCKrwCfpy6oU8Ws1zcbWs",
+"template_id": "lPhJ-h_2X3tXjWCD1NIDOIj_W9Hnj4o1wBP3cZTiM5M",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["ocF0g5naJSS9FKzg2Gjx1Kxbf6mg","ocF0g5lMaFoHql8h0pfjvb-GWLto"],
+"user": ["ocF0g5naJSS9FKzg2Gjx1Kxbf6mg"],
 
 # 信息配置
 # 天气接口选择，1为和风，2为天行，默认使用和风天气的接口
@@ -19,9 +19,9 @@
 # 所在地区
 # 选择和风天气接口，可为省，市，区，县，同时支持国外城市，例如伦敦
 # 选择天行数据接口，可为省，市，区，县，不支持国外城市，并且地区不能携带省、市、区、县，如广州市直接写广州即可
-"region": "厦门",
+"region": "福州",
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "宝宝", "birthday": "2000-12-25"},
+"birthday1": {"name": "你", "birthday": "2000-12-19"},
 # 生日2
 "birthday2": {"name": "我", "birthday": "r2000-12-19"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
